@@ -1,4 +1,4 @@
-package ru.gb.ProductsComsoleApp;
+package ru.gb.ProductsConsoleApp;
 
 
 import lombok.*;

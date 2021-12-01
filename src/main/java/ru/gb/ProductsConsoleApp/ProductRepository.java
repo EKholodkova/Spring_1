@@ -1,11 +1,10 @@
-package ru.gb.ProductsComsoleApp;
+package ru.gb.ProductsConsoleApp;
 
 import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 
 @Component
 public class ProductRepository {
